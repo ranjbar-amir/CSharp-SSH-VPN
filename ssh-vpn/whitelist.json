@@ -1,0 +1,8 @@
+﻿{
+    "domains": [
+        "google.com",
+        "*.google.com",
+        "uptvs.com",
+        "*.uptvs.com"
+    ]
+}

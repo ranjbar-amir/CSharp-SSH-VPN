@@ -1,0 +1,13 @@
+{
+  "domains": [
+    "*.uptvs.com",
+    "192.168.10.*",
+    "192.168.1.*",
+    "*.bale.ai",
+    "*.kabirmotor.com",
+    "*.iran.ir",
+    "*.stts.ir",
+    "127.0.0.1",
+    "localhost"
+  ]
+}

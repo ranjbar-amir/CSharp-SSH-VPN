@@ -71,3 +71,19 @@ E:\Projects\C# Projects\CSharp-SSH-VPN\ssh-vpn\bin\Debug\ssh-vpn.pdb
 E:\Projects\C# Projects\CSharp-SSH-VPN\ssh-vpn\bin\Debug\Renci.SshNet.dll
 E:\Projects\C# Projects\CSharp-SSH-VPN\ssh-vpn\bin\Debug\Renci.SshNet.xml
 E:\Projects\C# Projects\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh_vpn.Properties.Resources.resources
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh-vpn.csproj.AssemblyReference.cache
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh_vpn.Form1.resources
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh_vpn.SettingsForm.resources
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh-vpn.csproj.GenerateResource.cache
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh-vpn.exe
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh-vpn.pdb
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\ssh-vpn.exe.config
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\ssh-vpn.exe
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\ssh-vpn.pdb
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\Renci.SshNet.dll
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\Renci.SshNet.xml
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh_vpn.Properties.Resources.resources
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh-vpn.csproj.CoreCompileInputs.cache
+E:\source\CSharp-SSH-VPN\ssh-vpn\obj\Debug\ssh-vpn.csproj.CopyComplete
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\Newtonsoft.Json.dll
+E:\source\CSharp-SSH-VPN\ssh-vpn\bin\Debug\Newtonsoft.Json.xml
